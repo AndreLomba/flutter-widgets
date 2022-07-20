@@ -1,4 +1,4 @@
-# exemplo
+# Repositório para guardar widgets (estudo)
 
 A new Flutter project.
 
